@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(125, 168, 154); }
+div{ 
+    border: 8px double rgba(24, 77, 141, 0.986) ;
+padding: 35px;
+margin: 15px;
+background-color:rgb(228, 228, 217);
+ }
+ P{
+    color: rgb(12, 12, 12);
+    text-align:left;
+    font-family:Century;
+ }
+ h1{
+    color: rgb(42, 33, 83);
+    text-align: justify;
+ }
+ #para{
+
+ }
+ #text{
+    color: chocolate;
+    text-align: center;
+    
+ }
